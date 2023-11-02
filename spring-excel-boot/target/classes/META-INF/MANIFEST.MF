@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: dependency/poi-ooxml-4.1.0.jar dependency/poi-4.1.0.jar depe
+ ndency/commons-codec-1.12.jar dependency/commons-collections4-4.3.jar d
+ ependency/commons-math3-3.6.1.jar dependency/poi-ooxml-schemas-4.1.0.ja
+ r dependency/xmlbeans-3.1.0.jar dependency/commons-compress-1.18.jar de
+ pendency/curvesapi-1.06.jar dependency/jackson-core-2.9.6.jar dependenc
+ y/jackson-annotations-2.9.6.jar dependency/jackson-databind-2.9.6.jar
+Main-Class: com.example.Main
+Created-By: Maven Integration for Eclipse
+
